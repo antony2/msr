@@ -1,0 +1,28 @@
+.container {
+  width: 80%;
+  text-align: center;
+  margin: auto;
+}
+
+form {
+  margin-top: 70px;
+  padding: 5px;
+  text-align: center;
+}
+
+.btn {
+  margin-left: 10px;
+}
+
+label {
+  display: inline-block;
+
+  padding-right: 20px;
+}
+.lbl1 {
+  margin-left: 27px;
+}
+
+.btnclass {
+  margin-left: 80px;
+}

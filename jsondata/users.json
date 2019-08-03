@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "class": "B.Tech",
+      "year": "2011",
+      "city": "Hyderabad",
+      "country": "India",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "class": "B.Tech",
+      "year": "2011",
+      "city": "Hyderabad",
+      "country": "India",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "class": "B.Tech",
+      "year": "2011",
+      "city": "Hyderabad",
+      "country": "India",
+      "password": "123456"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.container {
+  width: 80%;
+  margin-left: 35rem;
+  margin-top: 5rem;
+}
+.btn {
+  background: rgb(201, 197, 197);
+  margin-left: 10rem;
+  margin-top: 10px;
+}

@@ -1,0 +1,26 @@
+.container {
+  width: 80%;
+
+  margin-left: 20rem;
+}
+button {
+  background: rgb(201, 197, 197);
+  margin: 5px;
+}
+
+.formcls {
+  margin-top: 1rem;
+  margin-left: 35rem;
+}
+
+td {
+  padding-right: 1rem;
+}
+
+form td {
+  padding-top: 3px;
+}
+
+.frmbtn {
+  margin-left: 7.5rem;
+}
